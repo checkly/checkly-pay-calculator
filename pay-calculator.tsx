@@ -38,6 +38,7 @@ const locations = [
   { label: "Bulgaria", value: "0.9" },
   { label: "France", value: "1" },
   { label: "Germany", value: "1" },
+  { label: "Greece", value: "0.9" },
   { label: "Ireland", value: "1" },
   { label: "Italy", value: "0.9" },
   { label: "Netherlands", value: "1" },
