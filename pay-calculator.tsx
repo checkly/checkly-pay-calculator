@@ -36,6 +36,7 @@ const locations = [
   { label: "Austria", value: "1" },
   { label: "Belgium", value: "1" },
   { label: "Bulgaria", value: "0.9" },
+  { label: "Estonia", value: "1" },
   { label: "France", value: "1" },
   { label: "Germany", value: "1" },
   { label: "Greece", value: "0.9" },
